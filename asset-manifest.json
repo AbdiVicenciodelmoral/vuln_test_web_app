@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vuln_test_web_app/static/css/main.f855e6bc.css",
+    "main.js": "/vuln_test_web_app/static/js/main.914de5cf.js",
+    "static/js/453.59eb357d.chunk.js": "/vuln_test_web_app/static/js/453.59eb357d.chunk.js",
+    "static/media/logo.svg": "/vuln_test_web_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vuln_test_web_app/index.html",
+    "main.f855e6bc.css.map": "/vuln_test_web_app/static/css/main.f855e6bc.css.map",
+    "main.914de5cf.js.map": "/vuln_test_web_app/static/js/main.914de5cf.js.map",
+    "453.59eb357d.chunk.js.map": "/vuln_test_web_app/static/js/453.59eb357d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.914de5cf.js"
+  ]
+}
